@@ -6,7 +6,7 @@
 
     <groupId>com.usecase.spark</groupId>
     <artifactId>usecase</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
 
     <properties>
         <spark.version>2.4.8</spark.version>
